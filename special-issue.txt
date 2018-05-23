@@ -1,0 +1,131 @@
+Computing and programming in context
+====================================
+
+Call for Papers for Philosophy and Technology’s special issue on 
+Computing and programming in context – The interplay between logic, 
+science, technology and society.
+
+Introduction
+------------
+
+In a society where computers have become ubiquitous, it is necessary 
+to develop a broader understanding of the nature of computing and 
+programming, not just from a technical viewpoint, but also from a 
+historical and philosophical perspective. Computers and computer 
+programs do not exist in a vacuum – they are a part of a rich 
+socio-technological context that provides ways for understanding 
+computers and reasoning about programs (cognitive sciences and logic), 
+they are made of technology that shapes the nature of computing and 
+programming. Computers and programs also influence our understanding 
+of the world (e.g. as a scientific instrument) or our relationship 
+with the world (i.e. their sociological and psychological effects). 
+
+The aim of this special issue is to bring together works exploring 
+computing and programming across their rich socio-technological, 
+scientific and formal context. We are convinced that an 
+inter-disciplinary approach is necessary for understanding computing 
+and programming in their multifaceted nature. As such, we welcome 
+interdisciplinary submissions by researchers coming from a diversity 
+of backgrounds, including historians, philosophers and computer 
+scientists. 
+
+Questions that consider computing and programming in a wider 
+context include, for example: 
+
+ * What formal, societal and technological influences contributed to 
+   the way in which modern programs are written and modern 
+   computers are constructed? 
+   
+ * In what ways can computer programs lead to novel phenomenological 
+   experiences, be it through direct engagement with technological 
+   artifacts or as mediated through art? 
+   
+ * What is the role of programs and computer simulations in 
+   traditional sciences such as biology and physics?
+
+This special issue follows two recent events organised by the 
+Commission for the History and Philosophy of Computing – the Fourth 
+Conference on the History and Philosophy of Computing (HaPoC, Brno, 
+October 2017) and the Fourth Symposium on the History and Philosophy 
+of Programming (HaPoP, Oxford, April 2018). This call is open both 
+to authors of contributions to HaPoC and HaPoP who are encouraged 
+to submit a full paper based on their presentations, and to 
+submissions not presented at the aforementioned conferences.
+
+Topic
+----- 
+
+This Call for Papers invites work that contributes to philosophy of 
+technology by engaging with questions that arise when we consider 
+computing and programming in a wider context. This includes, but is 
+not limited to the interplay between computing or programming and:
+
+ * Mathematics and formal logics – What role have mathematics and 
+   formal logics played in the history of computing and programming? 
+   What is the nature of the relationship between computer programs 
+   or technical computing artifacts and their formal models?
+   
+ * Sciences – Does computing and programming provide qualitatively 
+   new methods in sciences such as physics or biology? What can we 
+   learn by tracing the interaction between computing and scientific
+   knowledge through the history?
+   
+ * Technology – In what ways have technological innovations enabled 
+   developments in computing and programming? What is the nature of 
+   the technological artifacts used in computing and how does it 
+   differ from other areas of technology?
+   
+ * Society – What are the societal implications of computing and 
+   programming? How are developments in computing interlinked with 
+   activities of professional organisations or businesses? How does 
+   programming contribute to disciplines outside of a narrow 
+   business programming context in areas such as art?
+
+Editors
+-------
+
+Tomas Petricek, University of Kent, UK (Guest editor)
+Mark Priestley, The National Museum of Computing, UK (Guest editor)
+Helena Durnová, Masaryk University, CZ (Guest editor)
+Giuseppe Primiero, Middlesex University (Associate editor for P&T)
+
+Timetable
+---------
+
+1 June 2018       First Call for Papers
+1 August          Second Call for Paper
+1 October 2018    Deadline papers submissions
+1 January 2019    Deadline reviews papers
+1 March 2019      Deadline revised papers
+2019 (expected)   Publication of the special issue
+
+Submission details
+------------------
+
+To submit a paper for this special issue, authors should go to the 
+journal’s Editorial Manager http://www.editorialmanager.com/phte/  
+The author (or a corresponding author for each submission in case 
+of co-authored papers) must register into EM. The author must then 
+select the special article type: "COMPUTING AND PROGRAMMING IN 
+CONTEXT" from the selection provided in the submission process. 
+This is needed in order to assign the submissions to the Guest Editors.  
+
+Submissions will then be assessed according to the following procedure:  
+New Submission => Journal Editorial Office => Guest Editor(s) => 
+Reviewers => Reviewers’ Recommendations => Guest Editor(s)’ 
+Recommendation => Editor-in-Chief’s Final Decision => Author 
+Notification of the Decision. The process will be reiterated in 
+case of requests for revisions.
+
+Philosophy & Technology
+-----------------------
+
+Editor-in-Chief: Luciano Floridi (Oxford)
+
+The journal addresses the expanding scope and unprecedented impact 
+of technologies, in order to improve the critical understanding of 
+the conceptual nature and practical consequences, and hence provide 
+the conceptual foundations for their fruitful and sustainable 
+developments. The journal welcomes high-quality submissions, 
+regardless of the tradition, school of thought or disciplinary 
+background from which they derive.	
